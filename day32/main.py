@@ -13,8 +13,7 @@ smtp_port = 587                     # SMTP Server Port
 subject_title = "Motivation Quote:"      # Change to your subject title.
 
 # Use the datetime module to obtain the current day of the week
-now = dt.datetime.now()
-weekday = now.weekday()
+weekday = dt.datetime.now().weekday()
 
 # Check if current day of the week is the is set as default.
 if weekday == weekday_to_check:
