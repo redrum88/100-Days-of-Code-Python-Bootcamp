@@ -12,7 +12,7 @@
 ## [Day  5 - Password Generator](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/day_5_password_generator)
 * [Day  5 - Challenge: Students Avarage Heights](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/day_5_students_avarage_heights)
 * [Day  5 - Challenge: Students Top Score](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/day_5_students_top_score)
-## Day  6 - FizzBuzz](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/day_13_fizzbuzz_debug)
+## [Day  6 - FizzBuzz](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/day_13_fizzbuzz_debug)
 ## [Day  7 - Hangman Game](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/day_7_hangman)
 ## [Day  8 - Caesar Cipher](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/day_8_caesar_cipher)
 * [Day  8 - Challenge: Paint Cover Calculator](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/day_8_paint_cover_calculator)
