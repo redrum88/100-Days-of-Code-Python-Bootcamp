@@ -42,3 +42,5 @@
 ## [Day 31 - Flash Card Project](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_30_flash_card_project)
 ## [Day 32 - Birthday Wisher](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/birthday-wisher)
 * [Day 32 - Bonus: Weekly Quotes Email](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/Completed/main/day32)
+## [Day 33 - ISS Overhead Notifier](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_33_iss_overhead_notifier)
+* [Day 33 - Challenge: Kanye Quotes](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_33_kanye_quotes)
