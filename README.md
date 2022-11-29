@@ -44,3 +44,4 @@
 * [Day 32 - Bonus: Weekly Quotes Email](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day32)
 ## [Day 33 - ISS Overhead Notifier](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_33_iss_overhead_notifier)
 * [Day 33 - Challenge: Kanye Quotes](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_33_kanye_quotes)
+## [Day 34 - Quizzler](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_34_quizzler)
