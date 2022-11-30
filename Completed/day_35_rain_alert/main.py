@@ -4,7 +4,7 @@ from twilio.rest import Client
 
 power = True
 # Weather API
-KEY = "ab74512b3e6c96f1e0b808312bd810a9"        # Openweathermap KEY
+KEY = "xxxxxxxxxxxxxxxxxxxxx"        # Openweathermap KEY
 URL = "https://api.openweathermap.org/data/2.5/forecast/"  # URL Address
 
 
@@ -17,8 +17,8 @@ PARAMETERS = {
 
 # SMS API
 
-account_sid = "AC17d1a57c05c6175b4f4e131adca1ff3d"      # Twilio SID
-auth_token = "af1e4097c9f95b23819297593d026584"         # Twilio Auth Key
+account_sid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"      # Twilio SID
+auth_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"         # Twilio Auth Key
 client = Client(account_sid, auth_token)
 
 will_rain = False
