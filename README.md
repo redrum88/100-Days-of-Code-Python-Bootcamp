@@ -45,3 +45,4 @@
 ## [Day 33 - ISS Overhead Notifier](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_33_iss_overhead_notifier)
 * [Day 33 - Challenge: Kanye Quotes](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_33_kanye_quotes)
 ## [Day 34 - Quizzler](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_34_quizzler)
+## [Day 35 - Rain Alert SMS Notifier](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_35_rain_alert)
