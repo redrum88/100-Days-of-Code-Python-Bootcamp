@@ -47,3 +47,4 @@
 ## [Day 34 - Quizzler](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_34_quizzler)
 ## [Day 35 - Rain Alert SMS Notifier](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_35_rain_alert)
 ## [Day 36 - Stock News](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_36_stock_news)
+## [Day 37 - Habit Tracking(https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/habit_tracking)
