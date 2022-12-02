@@ -49,3 +49,4 @@
 ## [Day 36 - Stock News](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_36_stock_news)
 ## [Day 37 - Habit Tracking](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/habit_tracking)
 ## [Day 38 - Excercise Tracker](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_38_exercise_tracker)
+## [Day 39 - Flight Deals](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_39_flight_deals)
