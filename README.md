@@ -51,3 +51,4 @@
 ## [Day 38 - Excercise Tracker](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_38_exercise_tracker)
 ## [Day 39 and 40 - Flight Deals](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_39_flight_deals)
 ## [Day 41 to 44 - HTML & CSS Foundation Personal site](https://redrum88.github.io/)
+## [Day 45 - Top 100 Movies Web Scrapper](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_45_bs4_100_movies_to_watch)
