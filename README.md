@@ -55,3 +55,4 @@
 ## [Day 46 - Spotify Billboard Top 100 by Date](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_46_spotify_playlist)
 ## [Day 47 - Amazon Price Alert](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_47_amazon_alert)
 ## [Day 48 - Automated Game Playing Bot](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_48_game_playing_bot/)
+## [Day 52 - Instagram Follower Bot](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_52_insta_bot)
