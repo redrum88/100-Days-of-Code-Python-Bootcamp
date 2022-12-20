@@ -60,4 +60,4 @@
 ## [Day 56 - Flask My Personal Name Card](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_56_my_personal_site)
 ## [Day 57 - Blog Capstone Project](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_57_blog_capstone)
 ## [Day 58 - Tindog Website](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/tindog)
-# [Tindog Website Live Preview](https://kedevo.com/tindog/)
+* [Tindog Website Live Preview](https://kedevo.com/tindog/)
