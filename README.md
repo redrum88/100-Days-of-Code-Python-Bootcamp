@@ -57,3 +57,4 @@
 ## [Day 48 - Automated Game Playing Bot](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_48_game_playing_bot/)
 ## [Day 52 - Instagram Follower Bot](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_52_insta_bot)
 ## [Day 54 & 55 - Flask Decorators & Higher Lower Game](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_54_flask)
+## [Day 56 - Flask My Personal Name Card](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_56_my_personal_site)
