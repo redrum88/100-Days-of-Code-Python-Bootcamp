@@ -61,4 +61,5 @@
 ## [Day 57 - Blog Capstone Project](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_57_blog_capstone)
 ## [Day 58 - Tindog Website](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/tindog)
 * [Tindog Website Live Preview](https://kedevo.com/tindog/)
-## [Day 59 - Blog Capstone Project part2](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_59_blog_capstone_part2)
+## [Day 59 & 60 - Blog Capstone Project part2](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_59_blog_capstone_part2)
+## [Day 71 - Data Exploration Pandas](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_71_data_exploration_pandas_college_major)
