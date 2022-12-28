@@ -66,3 +66,4 @@
 ## [Day 72 - Data Visualisation with Matplotlib](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_72_data_visualisation_with_matplotlib)
 ## [Day 73 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_73_aggregate_and_merge_data_with_pandas)
 ## [Day 74 - Google Trends Data: Resampling & Visualising Time Series](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_74_google_trends_data_resampling_and_visualising_time_series)
+## [Day 75 - Beautiful Plotly Charts & Analysing the Android App Store](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_75_beautiful_plotly_charts_and_analysing_android_app_store)
