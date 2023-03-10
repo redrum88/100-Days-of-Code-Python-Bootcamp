@@ -69,3 +69,4 @@
 ## [Day 75 - Beautiful Plotly Charts & Analysing the Android App Store](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_75_beautiful_plotly_charts_and_analysing_android_app_store)
 ## [Day 76 - Computation with NumPy & Dimensional Arrays](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/blob/main/Completed/day_76_computation_with_numpy_and_dimensional_arrays/day_76_Computation_with_NumPy_and_N_Dimensional_Arrays.ipynb)
 ## [Day 77 - Linear Regression and Data Visualisation with Seaborn](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/blob/main/day_77_seaborn_and_linear_regression.ipynb)
+## [Day 78 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/blob/main/day_78_nobel_prize_analysis.ipynb)
