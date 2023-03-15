@@ -62,6 +62,7 @@
 ## [Day 58 - Tindog Website](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/tindog)
 * [Tindog Website Live Preview](https://kedevo.com/tindog/)
 ## [Day 59 & 60 - Blog Capstone Project part2](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_59_blog_capstone_part2)
+### *Skipped Days:* **61, 62, 63, 64, 65, 66, 67, 68, 69, 70** - *FLASK and Web Applications* - **outdated**
 ## [Day 71 - Data Exploration Pandas](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_71_data_exploration_pandas_college_major)
 ## [Day 72 - Data Visualisation with Matplotlib](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_72_data_visualisation_with_matplotlib)
 ## [Day 73 - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_73_aggregate_and_merge_data_with_pandas)
@@ -70,3 +71,5 @@
 ## [Day 76 - Computation with NumPy & Dimensional Arrays](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/blob/main/Completed/day_76_computation_with_numpy_and_dimensional_arrays/day_76_Computation_with_NumPy_and_N_Dimensional_Arrays.ipynb)
 ## [Day 77 - Linear Regression and Data Visualisation with Seaborn](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/blob/main/day_77_seaborn_and_linear_regression.ipynb)
 ## [Day 78 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/blob/main/day_78_nobel_prize_analysis.ipynb)
+## [Day 79 - The Tragic Discovery of Handwashing: t-Tests and Distributions]()
+## [Day 80 - Multivariable Regression and Valuation Model](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/blob/main/day_80_Multivariable_Regression_and_Valuation_Model_(start).ipynb)
