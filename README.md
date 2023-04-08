@@ -6,7 +6,7 @@
 | Day 92 | Assignment 12: Custom Web Scraper (autoevolution) | [Link](https://github.com/redrum88/autoevolution) | *Web scraped autoevolution.com website all car model variants from 1899 to present.* **Columns** - `44`, **Rows** - `6971`
 | Day 100 | Assignment 20: Predict Earnings using Multivariable Regression | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/blob/main/day_100_Determinants_of_Earnings.ipynb)
 
-## Day 1 | 80
+## Day 1 - 80
 | **Day** | **Name** | **Link** | **Extras**
 | :-: | :--: | :--: | :--:|
 | Day  1 | Band Name Generator | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_1_band_generator) |
