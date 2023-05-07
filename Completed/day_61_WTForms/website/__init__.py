@@ -9,7 +9,7 @@ DB_NAME = "wtforms"
 host = "localhost"
 port = "5432"
 username = "postgres"
-password = "Naujas293"
+password = "password123"
 
 
 def create_app():
