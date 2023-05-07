@@ -59,7 +59,8 @@
 | Day 57 | Blog Capstone Project | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_57_blog_capstone)
 | Day 58 | Tindog Website | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/tindog) | [Tindog Website Live Preview](https://kedevo.com/tindog/)
 | Day 59 & 60 | Blog Capstone Project part2 | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_59_blog_capstone_part2)
-| ⚠️61, 62, 63, 64, 65, 66, 67, 68, 69, 70 | *FLASK and Web Applications* | 🤮 | Skipped |
+| Day 61 | Flask WTForms | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_61_WTForms) |
+| ⚠️, 62, 63, 64, 65, 66, 67, 68, 69, 70 | *FLASK and Web Applications* | 🤮 | Skipped |
 | Day 71 | Data Exploration Pandas | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_71_data_exploration_pandas_college_major)
 | Day 72 | Data Visualisation with Matplotlib | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_72_data_visualisation_with_matplotlib)
 | Day 73 | Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset | [Link](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp/tree/main/Completed/day_73_aggregate_and_merge_data_with_pandas)
