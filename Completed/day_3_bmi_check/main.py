@@ -7,17 +7,18 @@ weight = float(input("enter your weight in kg: "))
 # bmi = weight / (height * height)
 bmi = round(weight / height ** 2)
 
-if bmi < 18.8:
-    print(f"Your bmi is {bmi}, you are underweight.")
+categories = [
+    (18.8, "underweight"),
+    (25, "normal weight"),
+    (30, "overweight"),
+    (35, "obese"),
+]
 
-elif bmi < 25:
-    print(f"Your bmi is {bmi}, you are normal weight.")
+category = "clinically obese"  # Default
 
-elif bmi < 30:
-    print(f"Your bmi is {bmi}, you are underweight.")
+for i, label in categories:
+    if bmi < i:
+        category = label
+        break
 
-elif bmi < 35:
-    print(f"Your bmi is {bmi}, you are obese")
-
-else:
-    print(f"Your bmi is {bmi}, you are clinically obese.")
+print(f"Your BMI is {bmi}, you are {category}.")
